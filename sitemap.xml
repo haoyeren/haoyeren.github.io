@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://haoyeren.com/2022/04/03/hello-world/</loc>
+    <loc>http://haoyeren.com/2022/04/15/hello-world/</loc>
     
-    <lastmod>2022-04-02</lastmod>
+    <lastmod>2022-04-15</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +13,7 @@
 
   <url>
     <loc>http://haoyeren.com/</loc>
-    <lastmod>2022-04-09</lastmod>
+    <lastmod>2022-04-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
