@@ -1,2 +1,9 @@
-http://haoyeren.com/2022/04/15/hello-world/
+http://haoyeren.com/2022/04/16/performance-appraisal-result-of-my-new-job/
 http://haoyeren.com/
+http://haoyeren.com/tags/%E8%81%8C%E5%9C%BA/
+http://haoyeren.com/tags/%E7%BB%A9%E6%95%88/
+http://haoyeren.com/tags/%E8%A3%B8%E8%BE%9E/
+http://haoyeren.com/tags/%E5%B5%8C%E5%85%A5%E5%BC%8F/
+http://haoyeren.com/tags/%E6%98%BE%E5%8D%A1%E9%A9%B1%E5%8A%A8/
+http://haoyeren.com/tags/qemu/
+http://haoyeren.com/categories/%E8%81%8C%E5%9C%BA/
